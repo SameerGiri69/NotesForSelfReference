@@ -28,3 +28,4 @@ C:\Users\HogRider\source\repos\ConfiguringMiddlewares\ConfiguringMiddlewares\obj
 C:\Users\HogRider\source\repos\ConfiguringMiddlewares\ConfiguringMiddlewares\obj\Debug\net8.0\ConfiguringMiddlewares.pdb
 C:\Users\HogRider\source\repos\ConfiguringMiddlewares\ConfiguringMiddlewares\obj\Debug\net8.0\ConfiguringMiddlewares.genruntimeconfig.cache
 C:\Users\HogRider\source\repos\ConfiguringMiddlewares\ConfiguringMiddlewares\obj\Debug\net8.0\ref\ConfiguringMiddlewares.dll
+C:\Users\HogRider\source\repos\ConfiguringMiddlewares\ConfiguringMiddlewares\obj\Debug\net8.0\ConfiguringMiddlewares.sourcelink.json

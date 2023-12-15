@@ -25,6 +25,7 @@
     }
         public static class TimingExtensions
         {
+        //instead of doing this we can directly use UserMiddleware method to setup our middleware in program.cs
             public static IApplicationBuilder UseTiming(this IApplicationBuilder app)
             {
                 // We can directly do this in program.cs file we are just doing this for loose coupling of the code

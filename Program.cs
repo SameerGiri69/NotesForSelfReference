@@ -19,11 +19,10 @@ app.UseTiming();
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
 app.UseRouting();
-
 app.UseAuthorization();
 
+app.UseMiddleware<GlobalExceptionHandlingMiddleware>();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
